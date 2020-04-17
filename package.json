@@ -1,0 +1,33 @@
+{
+  "name": "googleform2botquiz",
+  "version": "1.0.0",
+  "description": "A Telegram bot to scrape google form into a telegram quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhou0998/GoogleForm2BotQuiz.git"
+  },
+  "keywords": [
+    "Telegram",
+    "Bot",
+    "Quiz",
+    "Google",
+    "Form"
+  ],
+  "author": "Zhou Jian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhou0998/GoogleForm2BotQuiz/issues"
+  },
+  "homepage": "https://github.com/zhou0998/GoogleForm2BotQuiz#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "jsonframe-cheerio": "^3.0.1",
+    "request": "^2.88.2",
+    "telegraf": "^3.37.0"
+  }
+}
