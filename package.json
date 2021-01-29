@@ -28,6 +28,6 @@
     "dotenv": "^8.2.0",
     "jsonframe-cheerio": "^3.0.1",
     "request": "^2.88.2",
-    "telegraf": "^3.38.0"
+    "telegraf": "^4.0.2"
   }
 }
